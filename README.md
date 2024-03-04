@@ -1,4 +1,4 @@
-# Bike_sharing-ML_project
+# Bike-Sharing-Demand-Prediction
 This is a machine learning project where I built a multiple linear regression model for predicting the demand for shared bikes.
 
 ## Problem Statement:
